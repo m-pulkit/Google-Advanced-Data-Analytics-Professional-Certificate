@@ -1,0 +1,7 @@
+*.docx
+*.pptx
+*.pkl
+*Automatidata*
+*.lnk
+/**/Datasets/
+/**/EDA_lightning_strikes_USA 2.ipynb
